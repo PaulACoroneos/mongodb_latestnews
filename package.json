@@ -16,6 +16,7 @@
     "url": "https://github.com/PaulACoroneos/mongodb_latestnews/issues"
   },
   "homepage": "https://github.com/PaulACoroneos/mongodb_latestnews#readme",
+  "packageManager": "pnpm@10.33.0",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.2",
