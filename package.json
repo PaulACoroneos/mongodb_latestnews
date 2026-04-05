@@ -19,7 +19,7 @@
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.2.0",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "mongoose": "^5.7.5"
